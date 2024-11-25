@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|c:\\users\\asus\\source\\repos\\trabajopracticofinal-labo4\\controllers\\ticketdetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|solutionrelative:controllers\\ticketdetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|c:\\users\\asus\\source\\repos\\trabajopracticofinal-labo4\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|c:\\users\\asus\\source\\repos\\trabajopracticofinal-labo4\\controllers\\afiliadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|solutionrelative:controllers\\afiliadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|c:\\users\\asus\\source\\repos\\trabajopracticofinal-labo4\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|solutionrelative:controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|c:\\users\\asus\\source\\repos\\trabajopracticofinal-labo4\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|c:\\users\\asus\\source\\repos\\trabajopracticofinal-labo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|c:\\users\\asus\\source\\repos\\trabajopracticofinal-labo4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|c:\\users\\asus\\source\\repos\\trabajopracticofinal-labo4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5A2EB8-83B8-4E40-81ED-90401B11A1D7}|TrabajoPracticoFinal-Labo4.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T19:40:43.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketDetalleController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Controllers\\TicketDetalleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketDetalleController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Controllers\\TicketDetalleController.cs",
+              "RelativeToolTip": "Controllers\\TicketDetalleController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:39:35.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Controllers\\TicketController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:39:24.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:38:55.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Controllers\\EstadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstadoController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Controllers\\EstadoController.cs",
+              "RelativeToolTip": "Controllers\\EstadoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:38:26.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AfiliadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Controllers\\AfiliadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AfiliadoController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Controllers\\AfiliadoController.cs",
+              "RelativeToolTip": "Controllers\\AfiliadoController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:36:47.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:50:00.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:16:22.933Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
