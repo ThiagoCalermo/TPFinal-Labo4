@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using TrabajoPracticoFinal_Labo4.Models;
+using X.PagedList.Extensions;
 
 namespace TrabajoPracticoFinal_Labo4.Controllers
 {
@@ -19,11 +20,22 @@ namespace TrabajoPracticoFinal_Labo4.Controllers
 		}
 
 		// GET: TicketDetalle
-		public async Task<IActionResult> Index()
+		public async Task<IActionResult> Index(int? page)
 		{
-			var appDbContent = _context.TicketDetalles.Include(t => t.Estado.Id).Include(t => t.Ticket.Id);
-			return View(await appDbContent.ToListAsync());
-		}
+            int pageNumber = page ?? 1;
+            int pageSize = 5;
+
+            // Incluyendo las entidades relacionadas
+            var ticketD = _context.TicketDetalles
+                .Include(c => c.Ticket)
+				.Include(c => c.Estado)
+                .AsQueryable();
+
+            var ticketDList = await ticketD.OrderByDescending(s => s.Id).ToListAsync();
+            var ticketsDPaginadas = ticketDList.ToPagedList(pageNumber, pageSize);
+
+            return View(ticketsDPaginadas);
+        }
 
 		// GET: TicketDetalle/Details/5
 		public async Task<IActionResult> Details(int? id)

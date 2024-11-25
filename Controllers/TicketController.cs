@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using TrabajoPracticoFinal_Labo4.Models;
+using X.PagedList.Extensions;
 
 namespace TrabajoPracticoFinal_Labo4.Controllers
 {
@@ -19,10 +20,20 @@ namespace TrabajoPracticoFinal_Labo4.Controllers
 		}
 
 		// GET: Ticket
-		public async Task<IActionResult> Index()
+		public async Task<IActionResult> Index(string buscar,int? page)
 		{
-			var appDbContent = _context.Tickets.Include(t => t.Afiliado.Nombre);
-			return View(await appDbContent.ToListAsync());
+            int pageNumber = page ?? 1;
+            int pageSize = 5;
+
+            // Incluyendo las entidades relacionadas
+            var ticket = _context.Tickets
+                .Include(c => c.Afiliado)
+                .AsQueryable();
+
+            var ticketList = await ticket.OrderByDescending(s => s.Id).ToListAsync(); 
+            var ticketsPaginadas = ticketList.ToPagedList(pageNumber, pageSize);
+
+			return View(ticketsPaginadas);
 		}
 
 		// GET: Ticket/Details/5
@@ -76,7 +87,9 @@ namespace TrabajoPracticoFinal_Labo4.Controllers
 				return NotFound();
 			}
 
-			var ticket = await _context.Tickets.FindAsync(id);
+            ViewData["AfiliadoId"] = new SelectList(await _context.Afiliados.ToListAsync(), "Id", "Nombre");
+
+            var ticket = await _context.Tickets.FindAsync(id);
 			if (ticket == null)
 			{
 				return NotFound();

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\TrabajoPracticoFinal-Labo4.csproj": {}
+    "C:\\Users\\elias\\Desktop\\proyectos\\TPFinal-Labo4\\TrabajoPracticoFinal-Labo4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\TrabajoPracticoFinal-Labo4.csproj": {
+    "C:\\Users\\elias\\Desktop\\proyectos\\TPFinal-Labo4\\TrabajoPracticoFinal-Labo4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\TrabajoPracticoFinal-Labo4.csproj",
+        "projectUniqueName": "C:\\Users\\elias\\Desktop\\proyectos\\TPFinal-Labo4\\TrabajoPracticoFinal-Labo4.csproj",
         "projectName": "TrabajoPracticoFinal-Labo4",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\TrabajoPracticoFinal-Labo4.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\TrabajoPracticoFinal-Labo4\\obj\\",
+        "projectPath": "C:\\Users\\elias\\Desktop\\proyectos\\TPFinal-Labo4\\TrabajoPracticoFinal-Labo4.csproj",
+        "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elias\\Desktop\\proyectos\\TPFinal-Labo4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
