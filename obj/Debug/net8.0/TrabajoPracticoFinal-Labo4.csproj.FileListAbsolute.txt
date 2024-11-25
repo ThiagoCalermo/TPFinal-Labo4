@@ -267,3 +267,4 @@ C:\Users\Asus\source\repos\TrabajoPracticoFinal-Labo4\bin\Debug\net8.0\X.PagedLi
 C:\Users\Asus\source\repos\TrabajoPracticoFinal-Labo4\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
 C:\Users\Asus\source\repos\TrabajoPracticoFinal-Labo4\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\Asus\source\repos\TrabajoPracticoFinal-Labo4\obj\Debug\net8.0\TrabajoPracticoFinal-Labo4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\source\repos\TrabajoPracticoFinal-Labo4\obj\Debug\net8.0\TrabajoPracticoFinal-Labo4.sourcelink.json

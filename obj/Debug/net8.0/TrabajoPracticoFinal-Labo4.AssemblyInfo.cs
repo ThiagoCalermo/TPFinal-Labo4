@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrabajoPracticoFinal-Labo4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33cc8b321f1ae8c27544e27fd2adac44a645b473")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrabajoPracticoFinal-Labo4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrabajoPracticoFinal-Labo4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
