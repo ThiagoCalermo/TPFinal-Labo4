@@ -17,139 +17,139 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TrabajoPracticoFinal_Labo4
 build_property.RootNamespace = TrabajoPracticoFinal_Labo4
-build_property.ProjectDir = C:\Users\elias\Desktop\proyectos\TPFinal-Labo4\
+build_property.ProjectDir = C:\Users\Asus\source\repos\TrabajoPracticoFinal-Labo4\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\elias\Desktop\proyectos\TPFinal-Labo4
+build_property.MSBuildProjectDirectory = C:\Users\Asus\source\repos\TrabajoPracticoFinal-Labo4
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Afiliadoes/Create.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Afiliadoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZpbGlhZG9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Afiliadoes/Delete.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Afiliadoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZpbGlhZG9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Afiliadoes/Details.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Afiliadoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZpbGlhZG9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Afiliadoes/Edit.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Afiliadoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZpbGlhZG9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Afiliadoes/Index.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Afiliadoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZpbGlhZG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Afiliado/Create.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Afiliado/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZpbGlhZG9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Afiliado/Delete.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Afiliado/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZpbGlhZG9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Afiliado/Details.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Afiliado/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZpbGlhZG9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Afiliado/Edit.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Afiliado/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZpbGlhZG9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Afiliado/Index.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Afiliado/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWZpbGlhZG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Estado/Create.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Estado/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Estado/Delete.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Estado/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Estado/Details.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Estado/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Estado/Edit.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Estado/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Estado/Index.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Estado/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Home/Index.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Home/Privacy.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Shared/Error.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/TicketDetalle/Create.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/TicketDetalle/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0RGV0YWxsZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/TicketDetalle/Delete.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/TicketDetalle/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0RGV0YWxsZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/TicketDetalle/Details.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/TicketDetalle/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0RGV0YWxsZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/TicketDetalle/Edit.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/TicketDetalle/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0RGV0YWxsZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/TicketDetalle/Index.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/TicketDetalle/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0RGV0YWxsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Ticket/Create.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Ticket/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Ticket/Delete.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Ticket/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Ticket/Details.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Ticket/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Ticket/Edit.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Ticket/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Ticket/Index.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Ticket/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/_ViewImports.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/_ViewStart.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/elias/Desktop/proyectos/TPFinal-Labo4/Views/Shared/_Layout.cshtml]
+[C:/Users/Asus/source/repos/TrabajoPracticoFinal-Labo4/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hldzqz4a0t
